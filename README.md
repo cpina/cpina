@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<script data-goatcounter="https://github-com-cpina.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <!--
 **cpina/cpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
