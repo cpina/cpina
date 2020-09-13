@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://carles.pina.cat/files/test01.png">
+<img src="https://github-com-cpina.goatcounter.com/count?p=/test-img">
 
 <!--
 **cpina/cpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
