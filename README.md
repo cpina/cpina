@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://carles.pina.cat/github/pixel.php">
+<img src="https://carles.pina.cat/github/pixel.php?cache=2402402401">
 
 <!--
 **cpina/cpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
