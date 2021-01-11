@@ -1,5 +1,3 @@
-Carles here...
-
 I'm the main maintainer of:
  * Project-Application: Django application for the Swiss Polar Institute
  * SPI Media Gallery: Django application for the Swiss Polar Institute
