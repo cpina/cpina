@@ -1,15 +1,15 @@
-# Sumary of relevant repositories
+Carles here...
 
-## I'm the main maintainer of:
+### I'm the main maintainer of:
  * Project-Application: Django application for the Swiss Polar Institute
  * SPI Media Gallery: Django application for the Swiss Polar Institute
  * schema-collaboration: Django application for Frictionless data) 
 
-## I'm collaborating every now and then on:
+### I'm collaborating every now and then on:
  * django-crispy-forms
  * Django 
 
-## Personal repositories
+### Personal repositories
  * github-action-push-to-another-repository: GitHub Action to push directories to another repository
  * qdacco: C++/Qt frontend for DACCO (since 2005)
  * qnetload: C++/Qt graphical application to measure network speeds or transmision
