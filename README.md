@@ -1,11 +1,11 @@
-Please note: until October 2021 I'm extremely busy and at times without reliable internet access. I might take some time to answer PRs or issues. Thank you for your patience!
+Please note: until October 2021 I am extremely busy and at times without reliable internet access. I might take some time to answer PRs or issues. Thank you for your patience!
 
-I'm the main maintainer of:
+I am the main maintainer of:
  * [Project-Application](https://github.com/Swiss-Polar-Institute/project-application): Django application for the [Swiss Polar Institute](https://swisspolar.ch)
  * [SPI Media Gallery](https://github.com/Swiss-Polar-Institute/spi-media-gallery): Django application for the [Swiss Polar Institute](https://swisspolar.ch)
  * [schema-collaboration](https://github.com/frictionlessdata/schema-collaboration): Django application for [Frictionless data](https://frictionlessdata.io/)
 
-I'm collaborating every now and then on:
+I am collaborating every now and then on:
  * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms)
  * [Django](https://github.com/django/django/) (tiny bits)
 
