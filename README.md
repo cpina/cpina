@@ -1,4 +1,5 @@
-Please note: until October 2021 I am extremely busy and at times without reliable internet access. I might take some time to answer PRs or issues. Thank you for your patience!
+
+*⚠️ Please note: until October 2021 I am extremely busy and at times without reliable internet access. I might take some time to answer PRs or issues. Thank you for your patience! ⚠️*
 
 I am the main maintainer of:
  * [Project-Application](https://github.com/Swiss-Polar-Institute/project-application): Django application for the [Swiss Polar Institute](https://swisspolar.ch)
