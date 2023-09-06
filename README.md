@@ -1,6 +1,5 @@
-The majority of my work current work is happening in Debian's GitLab instance [Salsa](https://salsa.debian.org) in the [Debusine](https://salsa.debian.org/freexian-team/debusine) project. You can read more about Debusine in the [documentation](https://freexian-team.pages.debian.net/debusine/).
-
-Debusine is implemented using Django (for the server) and Python for the client side.
+Current main activity:
+ * I am currently working on [Debusine](https://salsa.debian.org/freexian-team/debusine). The development happens in Debian's GitLab [Salsa](https://salsa.debian.org/carlespina).
 
 I have some personal side-projects:
  * [github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository): GitHub Action to push directories to another repository
@@ -8,7 +7,7 @@ I have some personal side-projects:
  * [qnetload](https://github.com/cpina/qnetload): C++/Qt graphical application to measure network speeds or transmision
  * [radio-pi](https://github.com/cpina/radio-pi): C++/Qt frontend to listen to radio stations on a Raspberry pi (or any GNU/Linux desktop!)
 
-See my [homepage](https://carles.pina.cat) for more information.
+See my [homepage](https://carles.pina.cat) for more information (contact information, past projects, etc.).
 
 <!--
 **cpina/cpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
