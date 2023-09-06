@@ -1,13 +1,8 @@
-I'm the main maintainer of:
- * [Project-Application](https://github.com/Swiss-Polar-Institute/project-application): Django application for the [Swiss Polar Institute](https://swisspolar.ch)
- * [SPI Media Gallery](https://github.com/Swiss-Polar-Institute/spi-media-gallery): Django application for the [Swiss Polar Institute](https://swisspolar.ch)
- * [schema-collaboration](https://github.com/frictionlessdata/schema-collaboration): Django application for [Frictionless data](https://frictionlessdata.io/))
+The majority of my work current work is happening in Debian's GitLab instance [Salsa](https://salsa.debian.org) in the [Debusine](https://salsa.debian.org/freexian-team/debusine) project. You can read more about Debusine in the [documentation](https://freexian-team.pages.debian.net/debusine/).
 
-I'm collaborating every now and then on:
- * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms)
- * [Django](https://github.com/django/django/) (tiny bits)
+Debusine is implemented using Django (for the server) and Python for the client side.
 
-Personal side-projects:
+I have some personal side-projects:
  * [github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository): GitHub Action to push directories to another repository
  * [qdacco](https://github.com/cpina/qdacco): C++/Qt frontend for [DACCO](http://catalandictionary.org/) (since 2005)
  * [qnetload](https://github.com/cpina/qnetload): C++/Qt graphical application to measure network speeds or transmision
